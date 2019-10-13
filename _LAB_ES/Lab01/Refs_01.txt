@@ -1,0 +1,3 @@
+
+[SOLVED] ElasticSearch failed to find analyzer?
+https://tutel.me/c/programming/questions/37028981/elasticsearch+failed+to+find+analyzer
